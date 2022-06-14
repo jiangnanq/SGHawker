@@ -12,3 +12,5 @@ You pay the amout of food + delivery fee to rider.
 
 Order complete.
 
+[Our privacy policy](privacy)
+
