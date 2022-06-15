@@ -1,4 +1,4 @@
-## Help page for SGHawker rider
+## Help page for SGHawker user
 
 SGHawker is a free App for user to order food from nearby hawker center.
 
