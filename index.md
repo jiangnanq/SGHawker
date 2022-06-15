@@ -12,5 +12,9 @@ You pay the amout of food + delivery fee to rider.
 
 Order complete.
 
+# Detail instuction for [user](user)
+
+# Detail instuction for [rider](rider)
+
 [Our privacy policy](privacy)
 
